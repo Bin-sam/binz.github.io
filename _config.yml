@@ -23,11 +23,11 @@ description              : &description "Discover the world"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Bin Zou"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "HKU"
   uri              : # URL
   email            : "binz899063@gmail.com" 
 
